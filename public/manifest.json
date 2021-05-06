@@ -1,6 +1,20 @@
 {
   "short_name": "React App",
   "name": "Create React App Sample",
+  "songs": [
+    {
+      "name": "小半",
+      "artist": "陈粒",
+      "charLyrics": "/lyricText/1c.txt",
+      "pinyinLyrics": "/lyricText/1p.txt"
+    },
+    {
+      "name": "飘向北方",
+      "artist": "王力宏, 黄明志",
+      "charLyrics": "/lyricText/2c.txt",
+      "pinyinLyrics": "/lyricText/2p.txt"
+    }
+  ],
   "icons": [
     {
       "src": "favicon.ico",
